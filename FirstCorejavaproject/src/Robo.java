@@ -2,7 +2,7 @@ import java.awt.AWTException;
 import java.awt.Robot; 
 import java.awt.event.KeyEvent; 
 import java.io.*; 
-  
+  //Robot class example
 public class Robo 
 { 
     public static void main(String[] args) throws IOException, 
